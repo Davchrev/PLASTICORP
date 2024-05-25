@@ -32,8 +32,8 @@ lottie=load_lottie(url)
 # INTRO
 
 with st.container(): 
-    st.header("vetereia, somos PLACORP 👋")
-    st.title("Queremos ver un mundo con menos plastico y mas biodiversidad")
+    st.header("alvaro y nicolas son unos imbeciles, somos PLACORP 👋")
+    st.title("me llamo David Chavez Revoredo y quiero ver un mundo con menos plastico y mas biodiversidad")
     st.write(
         
             '''
